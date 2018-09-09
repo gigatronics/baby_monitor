@@ -1,2 +1,2 @@
-echo "baby is awake" | ssmtp 5145504682@fido.ca
-echo "come see me. -Auston" | ssmtp 6132945870@txt.bell.ca
+echo "baby is awake" | ssmtp xxx xxx xxxx @fido.ca
+echo "come see me. -A" | ssmtp xxx xxx xxxx @txt.bell.ca
